@@ -11,20 +11,20 @@ a project that as a first step detects whether you are wearing a mask or not, an
 ## components 
 ## Software 
 ## 1.Libraries 
-Teachable_machine_lite
-cv2
-pickle 
-Face recognition 
-time 
-RPi.GPIO
-imutils 
+Teachable_machine_lite/
+cv2/
+pickle/ 
+Face recognition/ 
+time/
+RPi.GPIO/
+imutils/
 ## 2.Algorithms 
 Haarcascade
 
 ## Hardware
-Raspberry pi controller 
+Raspberry pi controller/ 
 Raspberry pi camera
 
 ## Team members 
-Yasmeen Jalloud 
+Yasmeen Jalloud /
 Aseel Takhman
